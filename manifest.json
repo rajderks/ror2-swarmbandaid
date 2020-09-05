@@ -2,5 +2,6 @@
 	"name": "SwarmBandaid",
 	"version_number": "1.0.0",
 	"website_url": "https://github.com/rajderks/ror2-swarmbandaid",
-	"description": "Tired of the Swarm Artifact breaking due to mountain shrine in combination with Beetle Queens? This mod removes the queens so swarm keeps working."
+	"description": "Tired of the Swarm Artifact breaking due to mountain shrine in combination with Beetle Queens? This mod removes the queens so swarm keeps working.",
+	"dependencies": []
 }
